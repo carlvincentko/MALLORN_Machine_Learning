@@ -1,0 +1,17 @@
+{
+    "loss_function": "Logloss",
+    "verbose": 0,
+    "allow_writing_files": false,
+    "random_seed": 42,
+    "iterations": 1140,
+    "learning_rate": 0.023065152239424503,
+    "border_count": 190,
+    "l2_leaf_reg": 17.57096878100361,
+    "random_strength": 8.644482583070147,
+    "rsm": 0.4679883649411629,
+    "bagging_temperature": 0.6630379553648929,
+    "grow_policy": "Lossguide",
+    "depth": 8,
+    "min_data_in_leaf": 27,
+    "scale_pos_weight": 17.963830047446596
+}
